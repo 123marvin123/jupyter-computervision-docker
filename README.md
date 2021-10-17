@@ -29,7 +29,7 @@ import the ```cv2``` package and use it as usual:
 ```python
 import cv2
 
-cv2.imread('image.png)
+cv2.imread('image.png')
 ```
 
 # Building
